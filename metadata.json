@@ -1,0 +1,6 @@
+{
+  "name": "Study-mind",
+  "description": "AI-powered study mind app for notes, quizzes, spaced-repetition flashcards, and tutor chat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
